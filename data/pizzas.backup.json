@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Calamussa", "price": "R$30,00" },
+  { "id": 2, "name": "Frango com Catupiry", "price": "R$35,00" },
+  { "id": 3, "name": "Romanesca", "price": "R$35,00" },
+  { "id": 4, "name": "Marguerita", "price": "R$25,00" },
+  { "id": 5, "name": "Calabresa", "price": "R$35,00" },
+  { "id": 6, "name": "Catupiry com Bacon", "price": "R$40,00" }
+]
