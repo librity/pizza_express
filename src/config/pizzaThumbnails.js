@@ -17,7 +17,7 @@ export default {
           res.toString('hex') +
             '_' +
             Date.now() +
-            '-' +
+            '_' +
             name +
             extname(file.originalname)
         );
