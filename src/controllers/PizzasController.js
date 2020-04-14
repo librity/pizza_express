@@ -33,14 +33,14 @@ class PizzasController {
     mail.sendMail(new_pizza_email, (error) => {
       if (error) return console.log(error);
 
-      return console.log('New pizza email sent successfully'  );
+      return console.log('New pizza email sent successfully');
     });
 
     return res.redirect('/pizzas');
   }
 
   // edit(req, res) {}
-  
+
   // update(req, res) {}
 
   destroy(req, res) {

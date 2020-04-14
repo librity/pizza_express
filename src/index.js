@@ -8,7 +8,7 @@ import methodOverride from 'method-override';
 
 import youch from './config/youch';
 import sessions from './config/sessions';
-import router from './routes/router';
+import router from './router';
 
 const app = express();
 
